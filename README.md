@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME: RAHINI A
-## REG.NO: 212223230165
+## NAME: A.HEMA
+## REG.NO: 212224110005
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
